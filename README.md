@@ -13,32 +13,12 @@ I am currently deepening my knowledge through hands-on projects, continuous lear
 - **Machine Learning**: Supervised and Unsupervised Learning, Model Evaluation, Feature Engineering  
 - **Data Manipulation**: Cleaning, Transformation, and Analysis of Large Datasets  
 - **Database Management**: Relational Databases, SQL Queries, Joins, Aggregations  
-- **Web Scraping**: Selenium, BeautifulSoup  
+- **Web Scraping**: Selenium, BeautifulSoup, Requests
 - **Tools & Platforms**: Jupyter Notebook, Git, Excel  
 
----
-
-## Projects  
-Here are some of the notable projects I have worked on:  
-
-### 1. **Job Market Trends Analysis**  
-- **Objective**: Extracted and analyzed job postings to identify trends in the data science job market.  
-- **Tech Stack**: Python (Pandas, Matplotlib), Selenium for web scraping, SQL for querying data.  
-
-### 2. **Predictive Analytics on Sales Data**  
-- **Objective**: Built a predictive model to forecast sales and identify high-performing products.  
-- **Tech Stack**: Python (Scikit-learn, Pandas), Jupyter Notebook, Matplotlib for visualization.  
-
-### 3. **Customer Segmentation Using Clustering**  
-- **Objective**: Applied machine learning techniques to segment customers based on purchasing behavior.  
-- **Tech Stack**: Python (Scikit-learn, NumPy), Seaborn for visualizations.  
-
-Feel free to explore my repositories for more details!  
-
----
 
 ## Certifications  
-- IBM Data Science Professional Certificate (7/10 modules completed)  
+- IBM Data Science Professional Certificate  
 - SQL Certification from HackerRank  
 
 ---
@@ -51,8 +31,7 @@ Feel free to explore my repositories for more details!
 ---
 
 ## Let's Connect  
-- **LinkedIn**: [Your LinkedIn Profile](#)  
-- **Portfolio**: [Your Portfolio (if applicable)](#)  
-- **Email**: your.email@example.com  
+- **LinkedIn**: [www.linkedin.com/in/thirupathirao-yarram](#)  
+- **Email**: yarramthirupathirao@gmail.com  
 
 I look forward to connecting with fellow data enthusiasts and contributing to impactful projects.  
